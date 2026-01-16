@@ -3,5 +3,5 @@
 name = "Aman"
 age = 18
 
-print("My name is " + name + " and my age is " + age)
+print(f"my name is {name} and my age is {age}")
 
