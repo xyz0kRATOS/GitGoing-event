@@ -22,3 +22,4 @@ Fix The Bug – Python
 
 ## 📂 Bugs List
 Each file inside the `bugs/` folder contains **exactly one bug**.
+Thank you everyone
