@@ -1,4 +1,4 @@
 # BUG: Syntax Error
 
-print("Welcome to Fix The Bug Python"
+print("Welcome to Fix The Bug Python")
 
